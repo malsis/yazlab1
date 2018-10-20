@@ -43,7 +43,6 @@ namespace yazlab1
         {
             AnaSyafa anasayfa = new AnaSyafa();
             anasayfa.Show();
-            this.Hide();
         }
     }
 }
