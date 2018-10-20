@@ -1,0 +1,13 @@
+C:\Users\ryuzaki\source\repos\yazlab1\yazlab1\bin\Debug\yazlab1.exe.config
+C:\Users\ryuzaki\source\repos\yazlab1\yazlab1\bin\Debug\yazlab1.exe
+C:\Users\ryuzaki\source\repos\yazlab1\yazlab1\bin\Debug\yazlab1.pdb
+C:\Users\ryuzaki\source\repos\yazlab1\yazlab1\obj\Debug\yazlab1.csprojAssemblyReference.cache
+C:\Users\ryuzaki\source\repos\yazlab1\yazlab1\obj\Debug\yazlab1.Properties.Resources.resources
+C:\Users\ryuzaki\source\repos\yazlab1\yazlab1\obj\Debug\yazlab1.csproj.GenerateResource.cache
+C:\Users\ryuzaki\source\repos\yazlab1\yazlab1\obj\Debug\yazlab1.csproj.CoreCompileInputs.cache
+C:\Users\ryuzaki\source\repos\yazlab1\yazlab1\obj\Debug\yazlab1.exe
+C:\Users\ryuzaki\source\repos\yazlab1\yazlab1\obj\Debug\yazlab1.pdb
+C:\Users\ryuzaki\source\repos\yazlab1\yazlab1\obj\Debug\yazlab1.Giris.resources
+C:\Users\ryuzaki\source\repos\yazlab1\yazlab1\obj\Debug\yazlab1.UyeOl.resources
+C:\Users\ryuzaki\source\repos\yazlab1\yazlab1\obj\Debug\yazlab1.AnaSyafa.resources
+C:\Users\ryuzaki\source\repos\yazlab1\yazlab1\obj\Debug\yazlab1.UyeTamamla.resources
